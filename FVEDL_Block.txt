@@ -49,3 +49,6 @@
 *.bierensgebakkramen.nl
 *.c2e-poitiers.com
 *.gonzalezfornes.es
+*.updatepopcorntime.xyz
+*.outbrainimg.com
+*.images.outbrainimg.com
