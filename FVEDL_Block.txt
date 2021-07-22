@@ -53,3 +53,13 @@
 *.updatepopcorntime.xyz
 *.outbrainimg.com
 *.images.outbrainimg.com
+*.bittorrent.com
+*.utorrent.li
+*.utorrent.com
+*.tracker.trackerfix.com
+*.torrentstream.org
+*.goofy.world
+*.greedy.world
+*.behave.world
+*.bleed.world
+*.maddening.world
