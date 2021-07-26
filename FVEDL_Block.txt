@@ -11,7 +11,7 @@
 *.findresults.site
 *.awakenbeautyhq.com
 *.astrotarot.net
-*.in-page-push.com
+*.inpagepush.com
 *.kakstitotako.com
 *.wowreality.info
 *.load02.biz
