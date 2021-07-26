@@ -63,3 +63,4 @@
 *.behave.world
 *.bleed.world
 *.maddening.world
+*.placestogo.org.uk
