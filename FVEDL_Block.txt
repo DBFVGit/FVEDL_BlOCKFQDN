@@ -66,3 +66,5 @@
 *.placestogo.org.uk
 *.onmarshtompor.com
 *.criagslist.com
+*.aanqylta.com
+*.cdn.special-offers.online
