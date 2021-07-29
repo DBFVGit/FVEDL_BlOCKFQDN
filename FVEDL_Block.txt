@@ -33,6 +33,9 @@
 *.8449nohate.org
 *.1kbk.com.ua
 *.365questions.org
+*.ogtrk.net
+*rima-tde.net
+*.wowreality.info
 *.bittorrent.com
 *.321play.com.hk
 *.candyhouseusa.com
