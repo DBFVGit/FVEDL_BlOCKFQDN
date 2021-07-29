@@ -74,3 +74,5 @@
 *.monetate-prod.zone
 *.premiumbros.com
 *.wowreality.info
+*.netund.com
+*.codedexchange.com
