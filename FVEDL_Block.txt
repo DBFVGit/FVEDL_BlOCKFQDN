@@ -71,3 +71,5 @@
 *.criagslist.com
 *.aanqylta.com
 *.cdn.special-offers.online
+*.monetate-prod.zone
+*.premiumbros.com
