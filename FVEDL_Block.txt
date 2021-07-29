@@ -73,3 +73,4 @@
 *.cdn.special-offers.online
 *.monetate-prod.zone
 *.premiumbros.com
+*.wowreality.info
