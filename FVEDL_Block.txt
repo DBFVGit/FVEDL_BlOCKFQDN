@@ -76,3 +76,6 @@
 *.wowreality.info
 *.netund.com
 *.codedexchange.com
+*.bhwlawfirm.com
+*.oncarrot.com
+*.easyhomeoffer.com
