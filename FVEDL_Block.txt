@@ -4,7 +4,6 @@
 *.cdn.ayc0zsm69431gfebd.xyz
 *.wallpoper.com
 *.poosoahe.com
-*.in-page-push.com
 *.gmaiil.com
 *.highercaptcha-settle.com
 *.ww38.findresults.site
@@ -34,8 +33,7 @@
 *.1kbk.com.ua
 *.365questions.org
 *.ogtrk.net
-*rima-tde.net
-*.wowreality.info
+*.*rima-tde.net
 *.bittorrent.com
 *.321play.com.hk
 *.candyhouseusa.com
@@ -56,7 +54,6 @@
 *.updatepopcorntime.xyz
 *.outbrainimg.com
 *.images.outbrainimg.com
-*.bittorrent.com
 *.utorrent.li
 *.utorrent.com
 *.tracker.trackerfix.com
@@ -73,13 +70,9 @@
 *.cdn.special-offers.online
 *.monetate-prod.zone
 *.premiumbros.com
-*.wowreality.info
 *.netund.com
 *.codedexchange.com
 *.bhwlawfirm.com
-*.oncarrot.com
 *.easyhomeoffer.com
-*.netund.com
 *.onemboaran.com
-*.mybetterdl.com
-*.codedexchange.com
+*.mongoosekart.com
