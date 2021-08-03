@@ -76,3 +76,8 @@
 *.easyhomeoffer.com
 *.onemboaran.com
 *.mongoosekart.com
+*.special-offers.online
+*.anqylta.com
+*.aanqylta.com
+*.op-manga.com
+*.wowreality.info
