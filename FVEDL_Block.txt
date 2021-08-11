@@ -81,3 +81,6 @@
 *.aanqylta.com
 *.op-manga.com
 *.wowreality.info
+*.wallpoper.com
+*.whereasplaid.com
+*.wbidder.online
