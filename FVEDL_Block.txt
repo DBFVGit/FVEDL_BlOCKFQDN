@@ -84,3 +84,4 @@
 *.wallpoper.com
 *.whereasplaid.com
 *.wbidder.online
+*.cite4me.org
