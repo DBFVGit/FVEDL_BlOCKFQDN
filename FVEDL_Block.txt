@@ -85,3 +85,4 @@
 *.whereasplaid.com
 *.wbidder.online
 *.cite4me.org
+*.omnatuor.com
