@@ -90,3 +90,4 @@
 *.beastbuying.com
 *.lyngenetskitchen.com
 *.wowreality.info
+*.offclaydolon.com
