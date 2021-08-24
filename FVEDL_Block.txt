@@ -87,3 +87,4 @@
 *.cite4me.org
 *.omnatuor.com
 *.interactcenter.org
+*.beastbuying.com
