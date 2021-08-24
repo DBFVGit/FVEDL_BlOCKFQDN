@@ -88,3 +88,4 @@
 *.omnatuor.com
 *.interactcenter.org
 *.beastbuying.com
+*.lyngenetskitchen.com
