@@ -91,3 +91,4 @@
 *.lyngenetskitchen.com
 *.wowreality.info
 *.offclaydolon.com
+*.iclickcdn.com
