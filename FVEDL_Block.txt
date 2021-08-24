@@ -89,3 +89,4 @@
 *.interactcenter.org
 *.beastbuying.com
 *.lyngenetskitchen.com
+*.wowreality.info
