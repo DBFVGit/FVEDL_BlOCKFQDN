@@ -92,3 +92,4 @@
 *.wowreality.info
 *.offclaydolon.com
 *.iclickcdn.com
+*.south32deltavirus.com
