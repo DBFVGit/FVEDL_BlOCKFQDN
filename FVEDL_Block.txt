@@ -98,3 +98,4 @@
 *.cdn.intergri.com
 *.wavebrowser.co
 *.captchaverifier.top
+*.iclickcdn.com
