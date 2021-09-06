@@ -99,3 +99,4 @@
 *.wavebrowser.co
 *.captchaverifier.top
 *.iclickcdn.com
+*.poneytelecom.eu
