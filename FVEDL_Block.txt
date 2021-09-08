@@ -33,6 +33,7 @@
 *.1kbk.com.ua
 *.365questions.org
 *.ogtrk.net
+*.propu.sh
 *.*rima-tde.net
 *.bittorrent.com
 *.321play.com.hk
