@@ -104,3 +104,4 @@
 *.mathtag.com
 *.connatix.com
 *.ogtrk.net
+*.deloplen.com
