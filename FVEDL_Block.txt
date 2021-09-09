@@ -102,3 +102,4 @@
 *.iclickcdn.com
 *.poneytelecom.eu
 *.mathtag.com
+*.connatix.com
