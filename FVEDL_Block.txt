@@ -105,3 +105,9 @@
 *.connatix.com
 *.ogtrk.net
 *.deloplen.com
+*.avanzatechnicalsolutions.com
+*.nbryb.com
+*.getbiolisk.com
+*.meitu.com
+*.jcloudcdn.com
+*.xmrminingproxy.com
