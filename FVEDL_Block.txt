@@ -113,3 +113,4 @@
 *.xmrminingproxy.com
 *.dirty-dreams.life
 *.prospectsign.us
+*.bodelen.com
