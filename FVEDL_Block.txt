@@ -111,3 +111,5 @@
 *.meitu.com
 *.jcloudcdn.com
 *.xmrminingproxy.com
+*.dirty-dreams.life
+*.prospectsign.us
