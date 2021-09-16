@@ -115,3 +115,6 @@
 *.prospectsign.us
 *.bodelen.com
 *.dooloust.net
+*.graizoah.com
+*.mugrikees.com
+*.ptetchie.net
