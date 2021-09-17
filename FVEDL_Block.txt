@@ -118,3 +118,4 @@
 *.graizoah.com
 *.mugrikees.com
 *.ptetchie.net
+*.mhealth.space
