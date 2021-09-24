@@ -119,3 +119,8 @@
 *.mugrikees.com
 *.ptetchie.net
 *.mhealth.space
+*.asyah.co.il
+*.propu.sh
+*.unchecky.com
+*.gabmixer.com
+*.bodelen.com
