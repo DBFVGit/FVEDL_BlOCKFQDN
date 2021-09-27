@@ -126,3 +126,4 @@
 *.bodelen.com
 *.bodis.com
 *.hollywoodjesus.com
+*.wavebrowser.co
