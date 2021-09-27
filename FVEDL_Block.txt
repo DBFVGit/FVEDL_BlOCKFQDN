@@ -124,3 +124,4 @@
 *.unchecky.com
 *.gabmixer.com
 *.bodelen.com
+*.bodis.com
