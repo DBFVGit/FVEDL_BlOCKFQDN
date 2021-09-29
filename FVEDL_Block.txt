@@ -127,3 +127,4 @@
 *.bodis.com
 *.hollywoodjesus.com
 *.wavebrowser.co
+*.myteamgenius.com
