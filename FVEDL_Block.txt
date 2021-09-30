@@ -128,3 +128,4 @@
 *.hollywoodjesus.com
 *.wavebrowser.co
 *.myteamgenius.com
+*.placestogo.org.uk
