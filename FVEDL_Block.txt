@@ -129,3 +129,5 @@
 *.wavebrowser.co
 *.myteamgenius.com
 *.placestogo.org.uk
+*.crt.sectigo.com
+*.recentscientific.com
