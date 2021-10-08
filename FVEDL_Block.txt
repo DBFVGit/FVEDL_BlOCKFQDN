@@ -133,3 +133,4 @@
 *.recentscientific.com
 *.wshifen.com
 *.mybetterdl.com
+*.iclickcdn.com
