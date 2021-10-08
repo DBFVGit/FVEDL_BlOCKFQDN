@@ -131,3 +131,5 @@
 *.placestogo.org.uk
 *.crt.sectigo.com
 *.recentscientific.com
+*.wshifen.com
+*.mybetterdl.com
