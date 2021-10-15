@@ -143,3 +143,4 @@
 *.cxwrrqxmkrra5z7gkqg.com
 *.hurirk.net
 *.iclickcdn.com
+*.wtfismyip.com
