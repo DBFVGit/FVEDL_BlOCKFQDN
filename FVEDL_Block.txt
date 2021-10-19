@@ -144,3 +144,4 @@
 *.hurirk.net
 *.iclickcdn.com
 *.wtfismyip.com
+*.deloplen.com
