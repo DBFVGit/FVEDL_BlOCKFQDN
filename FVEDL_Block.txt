@@ -146,3 +146,4 @@
 *.wtfismyip.com
 *.deloplen.com
 *.filelauncher.co
+*.azm.to
