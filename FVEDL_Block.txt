@@ -147,3 +147,4 @@
 *.deloplen.com
 *.filelauncher.co
 *.azm.to
+*.ipredictive.com
