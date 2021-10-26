@@ -145,3 +145,4 @@
 *.iclickcdn.com
 *.wtfismyip.com
 *.deloplen.com
+*.filelauncher.co
