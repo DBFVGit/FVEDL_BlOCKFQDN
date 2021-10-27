@@ -148,3 +148,4 @@
 *.filelauncher.co
 *.azm.to
 *.ipredictive.com
+*.queersodadults.com
