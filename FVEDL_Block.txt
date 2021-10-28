@@ -376,7 +376,16 @@ mediawallahscript.com
 cogocast.net
 kqzyfj.com
 yieldoptimizer.com
-
+greedy.world
+behave.world
+bleed.world
+maddening.world
+goofy.world
+*.greedy.world
+*.behave.world
+*.bleed.world
+*.maddening.world
+*.goofy.world
 
 
 
