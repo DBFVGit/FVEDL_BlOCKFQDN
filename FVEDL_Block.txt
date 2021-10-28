@@ -183,3 +183,4 @@
 *.ueersodadults.com
 *.static.imghst-de.com
 *.btpnative.com
+pippio.com
