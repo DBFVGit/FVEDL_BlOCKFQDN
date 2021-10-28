@@ -368,3 +368,16 @@ picmedia.biz
 ueersodadults.com
 static.imghst-de.com
 btpnative.com
+*.mediawallahscript.com
+*.cogocast.net
+*.kqzyfj.com
+*.yieldoptimizer.com
+mediawallahscript.com
+cogocast.net
+kqzyfj.com
+yieldoptimizer.com
+
+
+
+
+
