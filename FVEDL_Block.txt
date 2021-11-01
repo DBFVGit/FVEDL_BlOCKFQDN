@@ -388,6 +388,5 @@ goofy.world
 *.goofy.world
 crt.sectigo.com
 *.crt.sectigo.com
-
-
-
+*.r-tb.com
+r-tb.com
