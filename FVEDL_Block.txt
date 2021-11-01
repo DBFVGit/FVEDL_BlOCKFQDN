@@ -386,7 +386,8 @@ goofy.world
 *.bleed.world
 *.maddening.world
 *.goofy.world
-
+crt.sectigo.com
+*.crt.sectigo.com
 
 
 
