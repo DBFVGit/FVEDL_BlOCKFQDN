@@ -494,5 +494,7 @@ igfap.com
 readberserk.com
 deduce.com
 *.deduce.com
+serconmp.com
+*.serconmp.com
 
 
