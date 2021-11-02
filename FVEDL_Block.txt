@@ -428,3 +428,5 @@ scrollingsystem.com
 *.trolleydrop.info
 d2m2wsoho8qq12.cloudfront.net
 *.d2m2wsoho8qq12.cloudfront.net
+1redirb.com
+*.1redirb.com
