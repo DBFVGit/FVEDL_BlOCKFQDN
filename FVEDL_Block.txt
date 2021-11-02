@@ -431,3 +431,6 @@ d2m2wsoho8qq12.cloudfront.net
 1redirb.com
 *.1redirb.com
 *.0redirc.com
+*.0redirc.com
+*.we-will-win-b6tc.live
+we-will-win-b6tc.live
