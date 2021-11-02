@@ -434,3 +434,5 @@ d2m2wsoho8qq12.cloudfront.net
 *.0redirc.com
 *.we-will-win-b6tc.live
 we-will-win-b6tc.live
+kqzyfj.com
+*.kqzyfj.com
