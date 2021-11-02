@@ -398,3 +398,5 @@ trolleydrop.info
 *.trolleydrop.info
 cloud-apps.store
 *.cloud-apps.store
+powerain.biz
+*.powerain.biz
