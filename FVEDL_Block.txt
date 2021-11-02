@@ -396,3 +396,5 @@ rawgithub.com
 *.rawgithub.com
 trolleydrop.info
 *.trolleydrop.info
+cloud-apps.store
+*.cloud-apps.store
