@@ -394,3 +394,5 @@ jpgtrk.com
 *.jpgtrk.com
 rawgithub.com
 *.rawgithub.com
+trolleydrop.info
+*.trolleydrop.info
