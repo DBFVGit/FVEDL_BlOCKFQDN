@@ -420,3 +420,9 @@ zemqvlylmtu.com
 *.zemqvlylmtu.com
 rt6qb.xyz
 *.rt6qb.xyz
+aquariuminn.com
+trolleydrop.info
+*.scrollingsystem.com
+scrollingsystem.com
+*.aquariuminn.com
+*.trolleydrop.info
