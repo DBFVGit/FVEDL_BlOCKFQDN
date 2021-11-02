@@ -492,7 +492,7 @@ beaconhealthsystem.org
 minnesotahomebrothers.com
 igfap.com
 readberserk.com
-
-
+deduce.com
+*.deduce.com
 
 
