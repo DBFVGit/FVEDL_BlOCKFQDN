@@ -416,3 +416,5 @@ nbkaflrbqlkqx.com
 *.click-and-continue.live
 *.gdufpjrhran.com
 *.nbkaflrbqlkqx.com
+zemqvlylmtu.com
+*.zemqvlylmtu.com
