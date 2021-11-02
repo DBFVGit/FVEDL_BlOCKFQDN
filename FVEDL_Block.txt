@@ -392,3 +392,5 @@ crt.sectigo.com
 r-tb.com
 jpgtrk.com
 *.jpgtrk.com
+rawgithub.com
+*.rawgithub.com
