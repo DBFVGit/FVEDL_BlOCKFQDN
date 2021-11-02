@@ -436,3 +436,9 @@ d2m2wsoho8qq12.cloudfront.net
 we-will-win-b6tc.live
 kqzyfj.com
 *.kqzyfj.com
+btpnative.com
+cj.dotomi.com
+polyhymnia-mar.com
+*.btpnative.com
+*.cj.dotomi.com
+*.polyhymnia-mar.com
