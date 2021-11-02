@@ -426,3 +426,5 @@ trolleydrop.info
 scrollingsystem.com
 *.aquariuminn.com
 *.trolleydrop.info
+d2m2wsoho8qq12.cloudfront.net
+*.d2m2wsoho8qq12.cloudfront.net
