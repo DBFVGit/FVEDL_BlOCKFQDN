@@ -496,5 +496,5 @@ deduce.com
 *.deduce.com
 serconmp.com
 *.serconmp.com
-
-
+*.agerpres.ro
+agerpres.ro
