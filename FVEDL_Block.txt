@@ -498,3 +498,5 @@ serconmp.com
 *.serconmp.com
 *.agerpres.ro
 agerpres.ro
+*.r-tb.com
+r-tb.com
