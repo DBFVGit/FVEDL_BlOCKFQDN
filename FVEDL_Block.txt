@@ -500,3 +500,5 @@ serconmp.com
 agerpres.ro
 *.r-tb.com
 r-tb.com
+*.securestudies.com
+securestudies.com
