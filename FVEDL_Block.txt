@@ -510,3 +510,7 @@ adsunflower.com
 adfuture.cn
 advmob.cn
 *.advmob.cn
+interactcenter.org
+*.interactcenter.org
+x-ray.ca
+*.x-ray.ca
