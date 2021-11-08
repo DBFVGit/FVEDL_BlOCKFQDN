@@ -514,3 +514,5 @@ interactcenter.org
 *.interactcenter.org
 x-ray.ca
 *.x-ray.ca
+wellnesslifezone.com
+*.wellnesslifezone.com
