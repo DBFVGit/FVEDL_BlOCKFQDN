@@ -518,3 +518,9 @@ wellnesslifezone.com
 *.wellnesslifezone.com
 *.yadro.ru
 yadro.ru
+intranetfairview.org
+securegatewayfairview.org
+faiview.org
+*.intranetfairview.org
+*.securegatewayfairview.org
+*.faiview.org
