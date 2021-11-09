@@ -516,3 +516,5 @@ x-ray.ca
 *.x-ray.ca
 wellnesslifezone.com
 *.wellnesslifezone.com
+*.yadro.ru
+yadro.ru
