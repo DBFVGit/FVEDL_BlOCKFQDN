@@ -524,3 +524,5 @@ faiview.org
 *.intranetfairview.org
 *.securegatewayfairview.org
 *.faiview.org
+*.jobcenterkenya.com
+jobcenterkenya.com
