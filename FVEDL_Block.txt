@@ -528,3 +528,5 @@ faiview.org
 jobcenterkenya.com
 punchbaby.com
 *.punchbaby.com
+yflexibilituky.co
+*.yflexibilituky.co
