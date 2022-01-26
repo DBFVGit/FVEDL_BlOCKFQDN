@@ -530,3 +530,5 @@ punchbaby.com
 *.punchbaby.com
 yflexibilituky.co
 *.yflexibilituky.co
+*.mnmnck.com
+mnmnck.com
