@@ -584,3 +584,5 @@ auto111.xyz
 *.co.uk
 *.boplodorteruk.com
 *.auto111.xyz
+utwente.nl
+*.utwente.nl
