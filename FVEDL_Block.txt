@@ -586,3 +586,7 @@ auto111.xyz
 *.auto111.xyz
 utwente.nl
 *.utwente.nl
+*.ancensored.com
+ancensored.com
+imagetwist.com
+*.imagetwist.com
