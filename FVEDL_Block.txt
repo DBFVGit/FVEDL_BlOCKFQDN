@@ -590,3 +590,5 @@ utwente.nl
 ancensored.com
 imagetwist.com
 *.imagetwist.com
+*.finedealidea.store
+finedealidea.store
