@@ -600,3 +600,5 @@ avazu.com
 *.avazu.com
 *.bodis.com
 bodis.com
+limevisitedinaugurate.com
+*.limevisitedinaugurate.com
