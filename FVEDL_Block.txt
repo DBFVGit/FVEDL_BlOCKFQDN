@@ -602,3 +602,5 @@ avazu.com
 bodis.com
 limevisitedinaugurate.com
 *.limevisitedinaugurate.com
+oswdafeanpj.com
+*.oswdafeanpj.com
