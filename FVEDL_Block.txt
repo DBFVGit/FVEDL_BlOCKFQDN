@@ -598,3 +598,5 @@ zioncg.org
 yadro.ru
 avazu.com
 *.avazu.com
+*.bodis.com
+bodis.com
