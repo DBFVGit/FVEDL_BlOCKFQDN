@@ -592,3 +592,5 @@ imagetwist.com
 *.imagetwist.com
 *.finedealidea.store
 finedealidea.store
+zioncg.org
+*.zioncg.org
