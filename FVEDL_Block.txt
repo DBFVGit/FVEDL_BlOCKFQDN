@@ -596,3 +596,5 @@ zioncg.org
 *.zioncg.org
 *.yadro.ru
 yadro.ru
+avazu.com
+*.avazu.com
