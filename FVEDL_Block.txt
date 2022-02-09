@@ -946,3 +946,5 @@ akamacdn.com
 *.hayatmuratofficial.com
 *.ro5.biz
 *.akamacdn.com
+*.faurview.org
+faurview.org
