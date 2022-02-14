@@ -994,3 +994,5 @@ go2bethany.com
 *.admeridianads.com
 *.bodis.com
 *.go2bethany.com
+ufpcdn.com
+*.ufpcdn.com
