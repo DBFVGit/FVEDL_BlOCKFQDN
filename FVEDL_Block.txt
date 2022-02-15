@@ -996,3 +996,5 @@ go2bethany.com
 *.go2bethany.com
 ufpcdn.com
 *.ufpcdn.com
+xmrpool.eu
+*.xmrpool.eu
