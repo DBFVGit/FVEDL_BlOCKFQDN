@@ -998,3 +998,7 @@ ufpcdn.com
 *.ufpcdn.com
 xmrpool.eu
 *.xmrpool.eu
+*.fortpush.com
+*.minergate.com
+*.download-performance.com
+*.jcloudcdn.com
