@@ -1002,3 +1002,11 @@ xmrpool.eu
 *.minergate.com
 *.download-performance.com
 *.jcloudcdn.com
+mnmnck.com
+*.mnmnck.com
+*.gowithads.com
+*.mbitspctools.live
+*.pinsightmedia.com
+*.gowithads.com
+*.mbitspctools.live
+*.pinsightmedia.com
