@@ -1232,3 +1232,9 @@ xekezix.com
 *.wuvidi.com
 *.xegogiv.com
 *.xekezix.com
+apartmentleasingnews.com
+madialaw.com
+customify.pw
+*.apartmentleasingnews.com
+*.madialaw.com
+*.customify.pw
