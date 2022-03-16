@@ -1238,3 +1238,5 @@ customify.pw
 *.apartmentleasingnews.com
 *.madialaw.com
 *.customify.pw
+*.ooshirts.com
+ooshirts.com
