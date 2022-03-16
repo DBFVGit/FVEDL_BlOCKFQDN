@@ -1240,3 +1240,5 @@ customify.pw
 *.customify.pw
 *.ooshirts.com
 ooshirts.com
+w3.org
+*w3.org
