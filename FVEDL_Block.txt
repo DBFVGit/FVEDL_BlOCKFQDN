@@ -1242,3 +1242,7 @@ customify.pw
 ooshirts.com
 w3.org
 *w3.org
+abstasty.com
+*.abstasty.com
+*.mbuncha.com
+mbuncha.com
