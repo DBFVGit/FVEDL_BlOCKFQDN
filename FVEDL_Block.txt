@@ -1246,3 +1246,5 @@ abstasty.com
 *.abstasty.com
 *.mbuncha.com
 mbuncha.com
+sungg.xyz
+*.sungg.xyz
