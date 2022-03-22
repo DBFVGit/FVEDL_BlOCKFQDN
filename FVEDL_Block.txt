@@ -1272,3 +1272,5 @@ c9c2b6b980.com
 *.c9c2b6b980.com
 loki-locker.one
 *.loki-locker.one
+pads289.net
+*.pads289.net
