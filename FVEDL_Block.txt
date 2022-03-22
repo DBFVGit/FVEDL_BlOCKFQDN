@@ -1270,3 +1270,5 @@ c9c2b6b980.com
 *.iyfubh.com
 *.mavricminds.top
 *.c9c2b6b980.com
+loki-locker.one
+*.loki-locker.one
