@@ -1360,3 +1360,7 @@ stateofblog.com
 themadhatter.events
 inversionespomasa.com
 quebradadosapps.com
+ncjfhzfdhcxvxcz.com
+poykte.com
+*.ncjfhzfdhcxvxcz.com
+*.poykte.com
