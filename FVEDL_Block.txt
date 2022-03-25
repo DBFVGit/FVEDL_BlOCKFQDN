@@ -1364,3 +1364,5 @@ ncjfhzfdhcxvxcz.com
 poykte.com
 *.ncjfhzfdhcxvxcz.com
 *.poykte.com
+*.doesprovequiet.xyz
+doesprovequiet.xyz
