@@ -1372,3 +1372,13 @@ copamu.com
 *.garuq.com
 *.sastts.com
 *.copamu.com
+sjarvis.taobao.com
+alikunlun.com
+mynewrotationlink.com
+cpi-offers.com
+apprelay.link
+sjarvis.taobao.com
+*.alikunlun.com
+*.mynewrotationlink.com
+*.cpi-offers.com
+*.apprelay.link
