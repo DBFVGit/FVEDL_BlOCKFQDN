@@ -1366,3 +1366,9 @@ poykte.com
 *.poykte.com
 *.doesprovequiet.xyz
 doesprovequiet.xyz
+garuq.com
+sastts.com
+copamu.com
+*.garuq.com
+*.sastts.com
+*.copamu.com
