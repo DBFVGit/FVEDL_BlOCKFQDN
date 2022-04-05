@@ -1382,3 +1382,5 @@ sjarvis.taobao.com
 *.mynewrotationlink.com
 *.cpi-offers.com
 *.apprelay.link
+muchmadequiet.xyz
+*.muchmadequiet.xyz
