@@ -1384,3 +1384,13 @@ sjarvis.taobao.com
 *.apprelay.link
 muchmadequiet.xyz
 *.muchmadequiet.xyz
+growdressgood.xyz
+*.growdressgood.xyz
+*.weyoxzqrnfdsrnews.blog
+weyoxzqrnfdsrnews.blog
+funny-dating.top
+nlkeppisxchivbr.com
+curenciesapp.com
+*.funny-dating.top
+*.nlkeppisxchivbr.com
+*.curenciesapp.com
