@@ -1394,3 +1394,11 @@ curenciesapp.com
 *.funny-dating.top
 *.nlkeppisxchivbr.com
 *.curenciesapp.com
+*.myq-see.com
+*.denetsuk.com
+*.captchacheckout.top
+*.jomtingi.net
+myq-see.com
+denetsuk.com
+captchacheckout.top
+jomtingi.net
