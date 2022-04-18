@@ -1404,3 +1404,9 @@ captchacheckout.top
 jomtingi.net
 non-block.com
 *.non-block.com
+ghtdecipie.com
+numbtoobly.com
+heavyperiodcorn.xyz
+*.ghtdecipie.com
+*.numbtoobly.com
+*.heavyperiodcorn.xyz
