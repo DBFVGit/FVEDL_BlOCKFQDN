@@ -554,7 +554,6 @@ epicunitscan.info
 denetsuk.com
 cmworkout.com
 mnmnck.com
-co.uk
 boplodorteruk.com
 auto111.xyz
 *.miliated.xyz
@@ -581,7 +580,6 @@ auto111.xyz
 *.denetsuk.com
 *.cmworkout.com
 *.mnmnck.com
-*.co.uk
 *.boplodorteruk.com
 *.auto111.xyz
 utwente.nl
