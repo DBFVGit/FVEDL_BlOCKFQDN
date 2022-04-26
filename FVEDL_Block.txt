@@ -1408,3 +1408,5 @@ heavyperiodcorn.xyz
 *.ghtdecipie.com
 *.numbtoobly.com
 *.heavyperiodcorn.xyz
+grown-games.life
+*.grown-games.life
