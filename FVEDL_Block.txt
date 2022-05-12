@@ -1410,3 +1410,5 @@ heavyperiodcorn.xyz
 *.heavyperiodcorn.xyz
 grown-games.life
 *.grown-games.life
+amaimaging.com
+*.amaimaging.com
