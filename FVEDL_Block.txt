@@ -1412,3 +1412,7 @@ grown-games.life
 *.grown-games.life
 amaimaging.com
 *.amaimaging.com
+coronavirus-map.com
+Variouscreativeformats.com
+*.coronavirus-map.com
+*.Variouscreativeformats.com
