@@ -1418,3 +1418,5 @@ Variouscreativeformats.com
 *.Variouscreativeformats.com
 portswigger.net
 *.portswigger.net
+tenable.com
+*.tenable.com
