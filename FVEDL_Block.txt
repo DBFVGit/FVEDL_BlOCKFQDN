@@ -1416,9 +1416,3 @@ coronavirus-map.com
 Variouscreativeformats.com
 *.coronavirus-map.com
 *.Variouscreativeformats.com
-portswigger.net
-*.portswigger.net
-tenable.com
-*.tenable.com
-nessus.org
-*.nessus.org
