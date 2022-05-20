@@ -1416,3 +1416,5 @@ coronavirus-map.com
 Variouscreativeformats.com
 *.coronavirus-map.com
 *.Variouscreativeformats.com
+*.motionsportindonesia.com
+motionsportindonesia.com
