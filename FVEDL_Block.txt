@@ -1476,3 +1476,5 @@ somalidoc.com
 bukaninfo.com
 agnescarved.website
 snorefamiliarsiege.com
+lawntennisnews.com
+*.lawntennisnews.com
