@@ -129,7 +129,6 @@
 *.wavebrowser.co
 *.myteamgenius.com
 *.placestogo.org.uk
-*.crt.sectigo.com
 *.recentscientific.com
 *.wshifen.com
 *.mybetterdl.com
@@ -315,7 +314,6 @@ hollywoodjesus.com
 wavebrowser.co
 myteamgenius.com
 placestogo.org.uk
-crt.sectigo.com
 recentscientific.com
 wshifen.com
 mybetterdl.com
@@ -386,8 +384,6 @@ goofy.world
 *.bleed.world
 *.maddening.world
 *.goofy.world
-crt.sectigo.com
-*.crt.sectigo.com
 *.r-tb.com
 r-tb.com
 jpgtrk.com
