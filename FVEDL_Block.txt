@@ -1749,3 +1749,5 @@ mcmo22.com
 novadab.com
 *.itemparity.com
 itemparity.com
+*.goggle.com
+goggle.com
