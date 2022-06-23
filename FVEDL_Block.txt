@@ -1743,3 +1743,9 @@ dismantlepenantiterrorist.com
 *.best-winplace.life
 *.dismantlepenantiterrorist.com
 in-page-push.com
+mcmo22.com
+*.novadab.com
+*.mcmo22.com
+novadab.com
+*.itemparity.com
+itemparity.com
