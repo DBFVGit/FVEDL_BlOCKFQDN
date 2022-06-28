@@ -1751,3 +1751,5 @@ novadab.com
 itemparity.com
 *.goggle.com
 goggle.com
+abdurantom.com
+*.abdurantom.com
