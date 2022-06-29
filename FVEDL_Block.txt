@@ -1753,3 +1753,7 @@ itemparity.com
 goggle.com
 abdurantom.com
 *.abdurantom.com
+femalenurture.com
+*.femalenurture.com
+beggingneglect.com
+*beggingneglect.com
