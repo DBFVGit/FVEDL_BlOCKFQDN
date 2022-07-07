@@ -1757,3 +1757,11 @@ femalenurture.com
 *.femalenurture.com
 beggingneglect.com
 *beggingneglect.com
+mo23.biz
+wvhba6470p.com
+imp.hmyquickconverter.com
+anymoresentencevirgin.com
+*.mo23.biz
+*.wvhba6470p.com
+*.hmyquickconverter.com
+*.anymoresentencevirgin.com
