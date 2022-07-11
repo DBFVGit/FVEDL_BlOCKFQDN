@@ -1765,3 +1765,7 @@ anymoresentencevirgin.com
 *.wvhba6470p.com
 *.hmyquickconverter.com
 *.anymoresentencevirgin.com
+fairviewregional.net
+*.fairviewregional.net
+googloe.com
+*.googloe.com
