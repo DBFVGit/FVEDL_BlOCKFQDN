@@ -1885,3 +1885,5 @@ softcell.org.uk
 *.softcell.org.uk
 boqudo.com
 *.boqudo.com
+doh-test.online
+*.doh-test.online
