@@ -1887,3 +1887,5 @@ boqudo.com
 *.boqudo.com
 doh-test.online
 *.doh-test.online
+amazoniarentacar.com.br
+*.amazoniarentacar.com.br
