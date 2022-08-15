@@ -1889,3 +1889,13 @@ doh-test.online
 *.doh-test.online
 amazoniarentacar.com.br
 *.amazoniarentacar.com.br
+dlamxilxiusncn.org
+*.dlamxilxiusncn.org
+skluqlwypjtdda.org
+*.skluqlwypjtdda.org
+wkgreogbtjnuxh.org
+*.wkgreogbtjnuxh.org
+unarbokor.com
+*.unarbokor.com
+jnxfciglctwxgm.org
+*.jnxfciglctwxgm.org
