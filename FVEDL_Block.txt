@@ -1899,3 +1899,5 @@ unarbokor.com
 *.unarbokor.com
 jnxfciglctwxgm.org
 *.jnxfciglctwxgm.org
+ftaqfohzyrcrme.org
+*.ftaqfohzyrcrme.org
