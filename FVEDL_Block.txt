@@ -1903,3 +1903,5 @@ ftaqfohzyrcrme.org
 *.ftaqfohzyrcrme.org
 fmixjkznzrliww.org
 *.fmixjkznzrliww.org
+balor-ghn.com
+*.balor-ghn.com
