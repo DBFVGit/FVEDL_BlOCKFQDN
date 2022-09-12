@@ -1905,3 +1905,5 @@ fmixjkznzrliww.org
 *.fmixjkznzrliww.org
 balor-ghn.com
 *.balor-ghn.com
+openresolve.rs
+*.openresolve.rs
